@@ -4,7 +4,7 @@
     "user": "jose",
     "name": "José Antônio",
     "image": "images/jose.webp",
-    "profession": "Web Design",
+    "profession": "Web Designer",
     "network": {
       "Instagram": "https://www.instagram.com/jose.antonion/",
       "WhatsApp": "https://wa.me/5577991292464",
@@ -18,7 +18,7 @@
     "user": "jackson",
     "name": "Jackson Marcony",
     "image": "images/perfil.webp",
-    "profession": "Web Design",
+    "profession": "Web Designer",
     "network": {
         "WebSite": "https://jacksonmarcony.com/"
     },
@@ -29,7 +29,7 @@
     "user": "edmarcos",
     "name": "Edmarcos Mendes",
     "image": "images/perfil.webp",
-    "profession": "Web Design",
+    "profession": "Desenvolvedor Web",
     "network": {
       "GitHub": "https://github.com/Ed-Games"
     },
@@ -40,7 +40,7 @@
     "user": "emanuel",
     "name": "Emanuel Martins",
     "image": "images/perfil.webp",
-    "profession": "Web Design",
+    "profession": "Desenvolvedor Web",
     "network": {
       "GitHub": "https://github.com/SrEmanuel"
     },
@@ -51,7 +51,7 @@
     "user": "luiz",
     "name": "Luiz Felipe",
     "image": "images/perfil.webp",
-    "profession": "Web Design",
+    "profession": "Desenvolvedor Web",
     "network": {
       "GitHub": "https://github.com/LuizFelipeGondim"
     },
