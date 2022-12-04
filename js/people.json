@@ -31,9 +31,7 @@
     "image": "images/perfil.webp",
     "profession": "Web Design",
     "network": {
-      "Instagram": "https://www.instagram.com/jose.antonion/",
-      "WhatsApp": "https://wa.me/5577991292464",
-      "LinkedIn": "https://www.linkedin.com/in/joseantonion/"
+      "GitHub": "https://github.com/Ed-Games"
     },
     "description": "<p>Sou Desenvolvedor FullStack Junior e trabalho a 3 anos com desenvolvimento web. Tenho experiência no desenvolvimento de Rest APIs em Node.js e SPAs em React (também com Nextjs). No ultimo ano tenho investido no desenvolvimento mobile com React Native e possuo interesse em Flutter.</p>"
   },
