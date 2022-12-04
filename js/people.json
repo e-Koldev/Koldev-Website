@@ -1,0 +1,73 @@
+[
+  {
+    "id": 0,
+    "user": "jose",
+    "name": "José Antônio",
+    "image": "images/jose.webp",
+    "profession": "Web Design",
+    "network": {
+      "Instagram": "https://www.instagram.com/jose.antonion/",
+      "WhatsApp": "https://wa.me/5577991292464",
+      "LinkedIn": "https://www.linkedin.com/in/joseantonion/",
+      "GitHub": "https://github.com/joseantonion03"
+    },
+    "description": "<p>Sou uma pessoa apaixonado por tecnologia, me considero um desenvolvedor júnior por enquanto, mas pretendo ir mais longe que eu possa ir. Comecei mergulhar a fundo nessa área no ano de 2019 onde realizei um curso técnico em informática para internet integrado ao ensino médio no Instituto Federal Campus Guanambi, na qual sempre me dediquei ao máximo para aprender e evoluir com os meus amigos que queriam seguir nessa área. Durante o tempo do curso, desenvolvi projetos individual e em grupos na qual me favoreceu um vasto conhecimento no desenvolvimento de projetos. Meu objeto é evoluir cada vez mais, e dar o meu melhor nas empresas onde estarei exercendo minha função.</p>"
+  },
+  {
+    "id": 1,
+    "user": "jackson",
+    "name": "Jackson Marcony",
+    "image": "images/perfil.webp",
+    "profession": "Web Design",
+    "network": {
+        "WebSite": "https://jacksonmarcony.com/"
+    },
+    "description": "<p>My greatest strengths are: adaptation and willingness to help others, as well as improving myself and improving each day. In addition, I am able to communicate well and would like to contribute to your company. Currently looking for an internship or any work experience that adds professionally. In that sense, I am a developer who has a lot to deliver and absorb as well.</p>"
+  },
+  {
+    "id": 2,
+    "user": "edmarcos",
+    "name": "Edmarcos Mendes",
+    "image": "images/perfil.webp",
+    "profession": "Web Design",
+    "network": {
+      "Instagram": "https://www.instagram.com/jose.antonion/",
+      "WhatsApp": "https://wa.me/5577991292464",
+      "LinkedIn": "https://www.linkedin.com/in/joseantonion/"
+    },
+    "description": "<p>Sou Desenvolvedor FullStack Junior e trabalho a 3 anos com desenvolvimento web. Tenho experiência no desenvolvimento de Rest APIs em Node.js e SPAs em React (também com Nextjs). No ultimo ano tenho investido no desenvolvimento mobile com React Native e possuo interesse em Flutter.</p>"
+  },
+  {
+    "id": 3,
+    "user": "emanuel",
+    "name": "Emanuel Martins",
+    "image": "images/perfil.webp",
+    "profession": "Web Design",
+    "network": {
+      "GitHub": "https://github.com/SrEmanuel"
+    },
+    "description": "<p>Eu sou Emanuel</p>"
+  },
+  {
+    "id": 4,
+    "user": "luiz",
+    "name": "Luiz Felipe",
+    "image": "images/perfil.webp",
+    "profession": "Web Design",
+    "network": {
+      "GitHub": "https://github.com/LuizFelipeGondim"
+    },
+    "description": "<p>Eu sou Luiz Felipe</p>"
+  },
+  {
+    "id": 5,
+    "user": "ruan",
+    "name": "Ruan Pablo",
+    "image": "images/perfil.webp",
+    "profession": "Tráfego Pago",
+    "network": {
+        "WebSite": "https://pyxies.com.br/"
+    },
+    "description": "<p>Eu sou Ruan</p>"
+  }
+]

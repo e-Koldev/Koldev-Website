@@ -1,14 +1,74 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css?ver=1.0">
-    <link rel="shortcut icon" href="https://koldev.com.br/favicon.ico" type="image/x-icon">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css?ver=1.0" />
+    <link
+      rel="shortcut icon"
+      href="https://koldev.com.br/favicon.ico"
+      type="image/x-icon"
+    />
+    <script src="js/vue.js"></script>
     <title>Koldev</title>
-</head>
-<body>
-    <h1 class="boujee-text">Koldev</h1>
-</body>
+  </head>
+  <body>
+    <div id="app">
+      <div>
+        <h1 class="boujee-text">Koldev</h1>
+        <div id="list-name">
+          <p>Pessoas que fizeram parte desse projeto</p>
+          <ul>
+            <li>
+              <a @click="clickPerson('edmarcos')" href="#">Edmarcos Mendes</a>
+            </li>
+            <li>
+              <a @click="clickPerson('emanuel')" href="#">Emanuel Martins</a>
+            </li>
+            <li>
+              <a @click="clickPerson('jackson')" href="#">Jackson Marcony</a>
+            </li>
+            <li><a @click="clickPerson('jose')" href="#">José Antônio</a></li>
+            <li><a @click="clickPerson('luiz')" href="#">Luiz Felipe</a></li>
+            <li><a @click="clickPerson('ruan')" href="#">Ruan Pablo</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="modal" :class="activeModal  ? 'active':'noactive'">
+        <div class="modal-content">
+          <div class="modal-content-header">
+            <div class="modal-content-header-foto">
+              <img :src="info.image" :alt="info.name" />
+            </div>
+            <div class="modal-content-header-texto">
+              <h2>{{ info.name }}</h2>
+              <p>{{ info.profession }}</p>
+              <div class="modal-content-header-links">
+                <button v-for="(social, index) in info.network" :key="index">
+                  <a target="_blank" :href="social">{{index}}</a>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="modal-content-description">
+            <h2>Quem é {{ info.name }}</h2>
+            <div v-html="info.description"></div>
+          </div>
+          <button @click="activeModal = false" id="close-modal">
+            <i class="fa fa-close"></i>
+            <div class="close-modal-message">
+              <div class="close-modal-message-triangulo"></div>
+              <p>Fechar modal</p>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+    <script src="js/main.js"></script>
+  </body>
 </html>
