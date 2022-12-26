@@ -11,18 +11,19 @@
       "LinkedIn": "https://www.linkedin.com/in/joseantonion/",
       "GitHub": "https://github.com/joseantonion03"
     },
-    "description": "<p>Uma pessoa que tenta fazer o seu melhor cada dia que passa.</p>"
+    "description": "<p>Uma pessoa apaixonado por tecnologia e que tenta dar o seu melhor todos os dias.</p>"
   },
   {
     "id": 1,
     "user": "jackson",
     "name": "Jackson Marcony",
-    "image": "images/perfil.webp",
-    "profession": "Web Designer",
+    "image": "images/jacksonmarcony.webp",
+    "profession": "Desenvolvedor e Designer",
     "network": {
-        "WebSite": "https://jacksonmarcony.com/"
+        "WebSite": "https://jacksonmarcony.com/",
+        "Behance": "https://www.behance.net/jacksonmarcony"
     },
-    "description": "<p>My greatest strengths are: adaptation and willingness to help others, as well as improving myself and improving each day. In addition, I am able to communicate well and would like to contribute to your company. Currently looking for an internship or any work experience that adds professionally. In that sense, I am a developer who has a lot to deliver and absorb as well.</p>"
+    "description": "<p>Sou Web Designer especialista em Landing Pages para infoprodutores.</p><p>Já trabalhei como programador por alguns anos e tive meus primeiros contatos com UX/UI Design lá, a partir daí comecei a me dedicar mais ao estudos de interface web e landing pages. Hoje sou especialista no desenvolvimento de landing pages, do design a implimentação com WordPress + Elementor.</p>"
   },
   {
     "id": 2,
@@ -42,9 +43,10 @@
     "image": "images/perfil.webp",
     "profession": "Desenvolvedor Web",
     "network": {
-      "GitHub": "https://github.com/SrEmanuel"
+      "GitHub": "https://github.com/SrEmanuel",
+      "LinkedIn": "https://www.linkedin.com/in/emanueltmartins/"
     },
-    "description": "<p>Eu sou Emanuel</p>"
+    "description": "<p>Profissional formado em Técnico em Informática para a Internet, onde concentrei meus estudos em hardware e software, lógica de programação, redes de computadores, arquitetura de dados, dentre outros temas. Durante esses anos de estudos, também adquiri um nível avançado de Inglês!.</p>"
   },
   {
     "id": 4,
@@ -53,19 +55,20 @@
     "image": "images/perfil.webp",
     "profession": "Desenvolvedor Web",
     "network": {
-      "GitHub": "https://github.com/LuizFelipeGondim"
+      "GitHub": "https://github.com/LuizFelipeGondim",
+      "LinkedIn": "https://www.linkedin.com/in/luiz-felipe-gondim-360941196/"
     },
-    "description": "<p>Eu sou Luiz Felipe</p>"
+    "description": "<p>Luiz não apresentou nenhuma descrição.</p>"
   },
   {
     "id": 5,
     "user": "ruan",
     "name": "Ruan Pablo",
     "image": "images/perfil.webp",
-    "profession": "Tráfego Pago",
+    "profession": "Gestor de Tráfego e CopyWriter",
     "network": {
         "WebSite": "https://pyxies.com.br/"
     },
-    "description": "<p>Eu sou Ruan</p>"
+    "description": "<p>Ruan não apresentou nenhuma descrição.</p>"
   }
 ]
