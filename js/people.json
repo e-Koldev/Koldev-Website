@@ -3,7 +3,7 @@
     "id": 0,
     "user": "jose",
     "name": "José Antônio",
-    "image": "images/jose.webp",
+    "image": "images/perfil.webp",
     "profession": "Web Designer",
     "network": {
       "Instagram": "https://www.instagram.com/jose.antonion/",
@@ -23,7 +23,7 @@
         "WebSite": "https://jacksonmarcony.com/",
         "Behance": "https://www.behance.net/jacksonmarcony"
     },
-    "description": "<p>Sou Web Designer especialista em Landing Pages para infoprodutores.</p><p>Já trabalhei como programador por alguns anos e tive meus primeiros contatos com UX/UI Design lá, a partir daí comecei a me dedicar mais ao estudos de interface web e landing pages. Hoje sou especialista no desenvolvimento de landing pages, do design a implimentação com WordPress + Elementor.</p>"
+    "description": "<p>Sou Web Designer especialista em Landing Pages para infoprodutores.</p><p>Já trabalhei como programador por alguns anos e tive meus primeiros contatos com UX/UI Design lá, a partir daí comecei a me dedicar mais ao estudos de interface web e landing pages. Hoje sou especialista no desenvolvimento de landing pages, do design a implementação com WordPress + Elementor.</p>"
   },
   {
     "id": 2,
