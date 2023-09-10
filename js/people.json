@@ -6,8 +6,7 @@
     "image": "images/perfil.webp",
     "profession": "Web Designer",
     "network": {
-      "Instagram": "https://www.instagram.com/jose.antonion/",
-      "WhatsApp": "https://wa.me/5577991292464",
+      "WebSite": "https://www.joseantonion.com.br/",
       "LinkedIn": "https://www.linkedin.com/in/joseantonion/",
       "GitHub": "https://github.com/joseantonion03"
     },
@@ -20,7 +19,7 @@
     "image": "images/jacksonmarcony.webp",
     "profession": "Desenvolvedor e Designer",
     "network": {
-        "WebSite": "https://jacksonmarcony.com/",
+        "WebSite": "https://vestigium.studio/",
         "Behance": "https://www.behance.net/jacksonmarcony"
     },
     "description": "<p>Sou Web Designer especialista em Landing Pages para infoprodutores.</p><p>Já trabalhei como programador por alguns anos e tive meus primeiros contatos com UX/UI Design lá, a partir daí comecei a me dedicar mais ao estudos de interface web e landing pages. Hoje sou especialista no desenvolvimento de landing pages, do design a implementação com WordPress + Elementor.</p>"
